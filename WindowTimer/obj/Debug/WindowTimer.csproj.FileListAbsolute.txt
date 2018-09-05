@@ -1,0 +1,16 @@
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\bin\Debug\WindowTimer.exe.config
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\bin\Debug\WindowTimer.exe
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\bin\Debug\WindowTimer.pdb
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\WindowTimer.csprojAssemblyReference.cache
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\MainWindow.g.cs
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\App.g.cs
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\WindowTimer_MarkupCompile.cache
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\WindowTimer_MarkupCompile.lref
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\MainWindow.baml
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\WindowTimer.g.resources
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\WindowTimer.Properties.Resources.resources
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\WindowTimer.csproj.GenerateResource.cache
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\WindowTimer.csproj.CoreCompileInputs.cache
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\WindowTimer.exe
+c:\users\czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\WindowTimer.pdb
+C:\Users\Czad3r\source\repos\WindowTimer\WindowTimer\obj\Debug\GeneratedInternalTypeHelper.g.cs
